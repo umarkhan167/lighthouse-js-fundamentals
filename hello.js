@@ -24,3 +24,10 @@ sayHello("Ferdinand");
 
 
 
+//RETURN AND CONSOLE.LOG
+
+// A console.log statement will result in some content being displayed in the console. A return statement will not output anything to the console. However, when a function returns a value, we can still console.log it later.
+
+
+
+
